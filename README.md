@@ -3,9 +3,9 @@ Trust Reserve Limited (TRL) issues HKD collateralized stablecoin public smart co
 
 Official website: [https://www.trustreserve.com](https://www.trustreserve.com)
 
-[View ERC20 token (Ethereum) contract](https://etherscan.io/address/)
+[View ERC20 token (Ethereum) contract](https://etherscan.io/address/0xb42dca7c7ec4d957e3b679708dcd98fc3b08ec76)
 
-[View ERC20 token (Conflux eSpace) contract](https://evm.confluxscan.io/token/)
+[View ERC20 token (Conflux eSpace) contract](https://evm.confluxscan.io/token/0xb42dca7c7ec4d957e3b679708dcd98fc3b08ec76)
 
 
 ## ABI, address, and verification
